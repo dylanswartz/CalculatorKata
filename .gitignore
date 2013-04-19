@@ -1,0 +1,28 @@
+*.swp
+#Compiled Object Files
+*.slo
+*.lo
+*.o
+
+#Compiled Dynamic Libraries
+*.so
+
+#Compiled Static Libraries
+*.lai
+*.la
+*.a
+
+#CLEAN OSX STUFFS
+.DS_Store
+
+#Debug Directory
+Debug/
+
+#Settings Directory
+.settings/
+
+#Eclipse Settings
+.project
+.cproject
+
+RunAllTests
